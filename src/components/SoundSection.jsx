@@ -18,7 +18,7 @@ const SoundSection = () => {
           <h2 className="title">New Sound System</h2>
           <p className="text">Feel the base.</p>
           <span className="description">
-          From $41.62/mo. for 24 mo. or $999 before trade-in
+          From Rs 5K/mo. for 24 mo. or Rs 1Lakh before trade-in
           </span>
 
           <ul className="links">
